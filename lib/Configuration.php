@@ -61,7 +61,7 @@ class Configuration
             '30min' => 1800,
         ),
         'expire' => array(
-            'default' => '1week',
+            'default' => '1mounth',
         ),
         'expire_options' => array(
             '5min'   => 300,
